@@ -1,6 +1,6 @@
 ---
 - name: Update and upgrade apt repositories
-  hosts: debian_vms
+  hosts: MYHOSTS # replace with actual host file name
 
   tasks:
    - name: Update and upgrade
