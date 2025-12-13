@@ -1,1 +1,1 @@
-Not all scripts are extensively testet. Use at own risk.
+Not all scripts have been extensively tested. Use at own risk.
